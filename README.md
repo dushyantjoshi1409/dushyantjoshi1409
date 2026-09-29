@@ -1,8 +1,32 @@
-# Dushyant Joshi
+<p align="center">
+  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="AI Engineer Banner" width="100%" />
+</p>
 
-**AI Engineer | Generative AI · Agentic Systems · RAG · Python Backends**
+<h1 align="center">Dushyant Joshi</h1>
 
-Bengaluru, India · [LinkedIn](https://linkedin.com/in/dushyantjoshi14092001) · [Email](mailto:dushyantjoshi1409@gmail.com) · [Portfolio](https://dushyantjoshi1409.github.io)
+<p align="center">
+  <b>AI/ML Engineer</b> &nbsp;·&nbsp; Agentic AI · RAG · Backend Systems
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=700&color=3B82F6&center=true&vCenter=true&width=720&height=40&lines=Building+production-grade+Agentic+AI+systems;Designing+RAG+pipelines+that+actually+work;Multi-agent+workflows+%7C+LLMs+%7C+FastAPI;LLM+Observability+%7C+Evaluation+%7C+AI+Infrastructure" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/dushyantjoshi14092001">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dushyantjoshi1409@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/dushyantjoshi1409">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://dushyantjoshi1409.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=dushyantjoshi1409&label=views&color=3B82F6&style=flat-square" alt="Profile views" />
+</p>
 
 I build enterprise AI applications, from retrieval and agent orchestration to evaluation, observability, and deployment. Currently an **AI/ML Engineer at Analyttica Datalab**, building an enterprise AI Copilot and the backend services behind it.
 
